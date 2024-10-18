@@ -1,5 +1,3 @@
-# Customer_Churn_Prediction
-
 # Bank Customer Churn Prediction
 
 This project is part of my work as a Software Engineering Resident in the Headstarter Accelerator program. 
