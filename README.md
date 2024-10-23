@@ -21,8 +21,10 @@ Several machine learning models were trained and tested, including:
 - **XGBoost**
 - **K-Nearest Neighbors (KNN)**
 - **Naive Bayes**
+- **Gradient Boosting Classifier**
+- **Stacking Classifier**
 
-Among these models, **XGBoost** emerged as the top-performing model. To further improve its performance, the following techniques were implemented:
+To further improve model performances, the following techniques were implemented:
 
 ### Performance Improvement Techniques
 
